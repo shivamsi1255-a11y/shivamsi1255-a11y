@@ -23,3 +23,12 @@ A final year student who is passionate about learning Artificial Intelligence an
     [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
     [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
     [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+
+---
+
+### 🔥 My Stats
+
+![Shivam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamsi1255-a11y&theme=gotham&hide_border=true)
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamsi1255-a11y&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)]
+
