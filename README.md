@@ -21,7 +21,7 @@
 </p>
 
 
-A final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am currently learning advanced concepts in Artificial Intilelligence such as Transformers and Large Language Models Fine-Tunning and RAG Pipeline. I am also a IBM Certified Data Science & Artificial Intelligence. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
+
 
 <div align="center">
 
